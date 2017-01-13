@@ -17,4 +17,4 @@ y=[Gender]
 3. Numpy
 
 # Motivation
-To dive into the world of Machine Learning with Python :D
+To dive into the world of Machine Learning using Python with the help of @Sirajology on YouTube :D
