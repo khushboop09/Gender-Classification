@@ -11,3 +11,6 @@ Dataset:
 x=[Height, Weight, Shoe Size]
 y=[Gender]
 
+Dependencies required:
+Scikit-learn python library
+Numpy
